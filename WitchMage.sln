@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WitchMage", "WitchMage\WitchMage.csproj", "{BC249FC6-8752-47C7-AAD7-DC5FAEE3A236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC249FC6-8752-47C7-AAD7-DC5FAEE3A236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC249FC6-8752-47C7-AAD7-DC5FAEE3A236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC249FC6-8752-47C7-AAD7-DC5FAEE3A236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC249FC6-8752-47C7-AAD7-DC5FAEE3A236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70116E39-FD20-427A-BD36-E0C16FE5BE50}
+	EndGlobalSection
+EndGlobal
