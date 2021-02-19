@@ -25,7 +25,7 @@ namespace WitchMage
         StepSequence stepSequence = new StepSequence();
         Brand newBrand = new Brand();
         List<Step> newSteps;
-        List<StepInput> stepInputs;
+        List<StepComponent> stepInputs;
         List<Evaluation> stepEvals;
         List<Action> stepActions;
 
@@ -218,7 +218,7 @@ namespace WitchMage
         private void genericButton_Click(object sender, System.EventArgs e)
         {
         
-            foreach (StepInput si in stepInputs)
+            foreach (StepComponent si in stepInputs)
             {
                 if (si.stepID == currentStepID)
                 {
@@ -260,10 +260,10 @@ namespace WitchMage
             stepActions = stepSequence.stepActions;
         }
 
-        private void ProcessStepInputs(List<StepInput> stepsToProcess)
+        private void ProcessStepInputs(List<StepComponent> stepsToProcess)
         {
             //Process Step
-            foreach (StepInput stepinput in stepsToProcess)
+            foreach (StepComponent stepinput in stepsToProcess)
             {
                 if (stepinput.stepID == currentStep.id)
                 {

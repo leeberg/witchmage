@@ -10,7 +10,7 @@ namespace WitchMage
     {
         public List<Step> steps;
         public Brand stepBranding;
-        public List<StepInput> stepInputs;
+        public List<StepComponent> stepInputs;
         public List<Action> stepActions;
         public List<Evaluation> stepEvaluations;
     }

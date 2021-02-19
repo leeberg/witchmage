@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WitchMage
 {
-    public class StepInput
+    public class StepComponent
     {
 
         public int stepID;

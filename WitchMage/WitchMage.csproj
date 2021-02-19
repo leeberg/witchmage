@@ -65,7 +65,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SetupFiles.cs" />
     <Compile Include="Step.cs" />
-    <Compile Include="StepInput.cs" />
+    <Compile Include="StepComponent.cs" />
     <Compile Include="StepSequence.cs" />
     <Compile Include="Util.cs" />
     <EmbeddedResource Include="MainForm.resx">

@@ -54,8 +54,15 @@ namespace WitchMage
                 psi.Verb = "runas";
             }
             
-            System.Diagnostics.Process.Start(psi);
-            
+            try
+            { 
+            Process newprocess = System.Diagnostics.Process.Start(psi);
+            }
+            catch
+            {
+
+            }
+
         }
     }
 }
