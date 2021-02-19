@@ -1,5 +1,5 @@
-# witchmage
-It's kind of like a wizard buy not really! 🧙‍♀️🧙‍🧹🐈
+# witchmage 🧙‍♀️🧙‍🧹🐈
+It's kind of like a wizard but not really!
 
 **WitchMage** is a windows utility executable meant to be embedded in other application packages that can be used to quickly and easily generate dynamic, good lookin', and action packed Windows Forms Apps for use as a fully functional wizard, setup launcher, installer, or general windows utility.
 
