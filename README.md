@@ -5,7 +5,7 @@ It's kind of like a wizard but not really!
 
 ![](demo1.gif)
 
-#### How it works
+### How it works
 
 Users of witchmage will define a set of desired variables, controls, and behaviors in a simple .JSON file - when the executable is launched, those parameters will be read, and ALL elements of the form with be generated on the fly. This provides users with an easy way to build a dynamic form with some logic components without writing any code or script.
 
